@@ -1,10 +1,8 @@
 
 
 
-># Boas vindas ao repositório do desafio da Aceleração Java!
+># Desafio Conversor de CSV
 Esse projeto tem como intuito treinar e ter mais familiaridade com a documentação de aplicações.
-
->## Desafio Conversor de CSV
 
 Trabalhar em um sistema que processa inscrições de pessoas para um evento nacional. As pessoas se inscrevem por meio de uma página web. No final do período de inscrições, os dados de todos os inscritos são compilados em arquivos CSV (valores separados por vírgula, do inglês Comma-Separated Values).
 
